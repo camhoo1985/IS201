@@ -1,0 +1,19 @@
+.changer {font-family: Arial, Helvetica, sans-serif; background-color: rgb(177, 177, 177);}
+
+.bold {font-weight: bold;}
+.normal {  margin: 0;
+    font-family: var(--bs-body-font-family);
+    font-size: var(--bs-body-font-size);
+    font-weight: var(--bs-body-font-weight);
+    line-height: var(--bs-body-line-height);
+    color: var(--bs-body-color);
+    text-align: var(--bs-body-text-align);
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    font-style: normal;}
+.italic {font-style: italic;}
+.backgrd1 {background-color: beige;}
+.images {position:absolute; top: 28px; right: 20px;}
+.color1 {color: rgb(0, 49, 139);}
+.font1 {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+.youTube {display: flex; justify-content: center; align-items: center;}
