@@ -17,3 +17,19 @@
 .color1 {color: rgb(0, 49, 139);}
 .font1 {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
 .youTube {display: flex; justify-content: center; align-items: center;}
+.style1 {font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; color: aliceblue; position: relative; left: 40%;}
+.style2 {font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color: antiquewhite;}
+.style3 {font-family: 'Times New Roman', Times, serif; color: azure;}
+.style4 {font-family: Georgia, 'Times New Roman', Times, serif; color: bisque;}
+img {
+    float:right;  
+    clear:both;
+    position: relative;
+  }
+.rightimage:before {
+    content: '' ;
+    display:block;
+    float: right;
+    height: 200px;
+}
+.center {position: relative;left: 50%;}
